@@ -20,7 +20,7 @@ npm install web3
 npm install
 
 # Run the app
-npm start
+npm run start
 
 # Modify code...
 ```
